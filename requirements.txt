@@ -1,0 +1,3 @@
+k8s
+jinja2
+python-varnish==0.2.1
